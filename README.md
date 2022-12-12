@@ -26,6 +26,5 @@ https://github.com/sehresh92/Arduino-Fingerprint-Door-Lock-System/blob/main/Fing
 
 fingerprint arduino code with limited function code link:
 
-https://github.com/sehresh92/Arduino-Fingerprint-Door-Lock-System/blob/main/fingerprint%20arduino%20code%20with%20limited%20function/code2.ino
-
+https://github.com/sehresh92/Arduino-Fingerprint-Door-Lock-System/blob/main/fingerprint%20arduino%20code%20with%20limited%20function/code2.ino  
 
