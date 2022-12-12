@@ -24,7 +24,7 @@ my FYP Project "Fingerprint Door Lock System" code with multiple function link:
 
 https://github.com/sehresh92/Arduino-Fingerprint-Door-Lock-System/blob/main/Fingerprint-Door-Lock-System/fingerprint-door-lock-system.ino 
 
-fingerprint arduino code with limited function code link:
+my Project "Fingerprint Door Lock System" code with limited function link:
 
 https://github.com/sehresh92/Arduino-Fingerprint-Door-Lock-System/blob/main/fingerprint%20arduino%20code%20with%20limited%20function/code2.ino  
 
