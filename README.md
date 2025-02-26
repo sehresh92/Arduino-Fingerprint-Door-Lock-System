@@ -1,3 +1,9 @@
+Beware:
+I am only on "LinkedIn" and "GitHub". I am not on "TikTok". Recently, someone gathered my information 
+on the internet and then made the fake profile. This is a fraud and a scam. The fake profile link is 
+https://topline.com/people/sehresh-mehboob-ac4772bc35
+
+
 # Arduino-Fingerprint-Door-Lock-System
 
 download Arduino IDE and Adafruit Fingerprint Sensor Library from the following link:
