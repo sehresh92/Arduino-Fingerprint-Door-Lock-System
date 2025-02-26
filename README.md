@@ -1,7 +1,7 @@
 Beware:
-I am only on "LinkedIn" and "GitHub". I am not on "TikTok". Recently, someone gathered my information 
-on the internet and then made the fake profile. This is a fraud and a scam. The fake profile link is 
-https://topline.com/people/sehresh-mehboob-ac4772bc35
+I am only on "LinkedIn" and "GitHub". I am not on "TikTok" and "Topline". Recently, someone gathered my information 
+on the internet and then made the fake profile on "Topline". This is a fraud and a scam. 
+
 
 
 # Arduino-Fingerprint-Door-Lock-System
