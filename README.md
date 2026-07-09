@@ -1,9 +1,3 @@
-Beware:
-I am only on "LinkedIn" and "GitHub". I am not on "TikTok" and "Topline". Recently, someone gathered my information 
-on the internet and then made the fake profile on "Topline". This is a fraud and a scam. 
-
-
-
 # Arduino-Fingerprint-Door-Lock-System
 
 download Arduino IDE and Adafruit Fingerprint Sensor Library from the following link:
