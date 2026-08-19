@@ -28,4 +28,6 @@ my Project "Fingerprint Door Lock System" code with limited function link:
 
 https://github.com/sehresh92/Arduino-Fingerprint-Door-Lock-System/blob/main/fingerprint%20arduino%20code%20with%20limited%20function/code2.ino  
 
+note:  The process will be same for 8085 and 8086 microprocessor. Only pin number will be different.
+
 Thank you for watching my project "Arduino-Fingerprint-Door-Lock-System" :-)
